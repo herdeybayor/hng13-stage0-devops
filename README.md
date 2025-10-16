@@ -3,4 +3,4 @@
 - name: Sherifdeen Adebayo
 - Slack username: `@SherifdeenA`
 - Short description: Set up a GitHub workflow and deploy an NGINX web server serving a custom webpage accessible over the internet.
-- Server IP/Domain: `31.220.87.89`
+- Server IP/Domain: [http://3.71.49.79](http://3.71.49.79)
